@@ -1,5 +1,5 @@
 import { Schema, model, models } from "mongoose";
-
+//transaction used as an additional 
 const TransactionSchema = new Schema({
   createdAt: {
     type: Date,
